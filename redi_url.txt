@@ -1,1 +1,1 @@
-https://zerox.website/new/server.php
+https://zerox.website/new/gserver.php
