@@ -1,5 +1,5 @@
 https://api.iugaming.com/
 https://servb.okzk.com/
 https://api.socalfishkillaz.com/
-http://api.nodnor.com/
+https://api.nodnor.com/
 https://api.betertech.com.ar/
