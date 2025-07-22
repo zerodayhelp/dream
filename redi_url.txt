@@ -1,1 +1,1 @@
-https://api.iugaming.com
+https://api.iugaming.com/
