@@ -1,1 +1,10 @@
-http://localhost/redirect/indexcleen.html
+https://main-fr.pages.dev
+https://main-ee.pages.dev
+https://main-de.pages.dev
+https://main-cc.pages.dev
+https://main-se.pages.dev
+https://main-re.pages.dev
+https://main-ea.pages.dev
+https://main-po.pages.dev
+https://main-ti.pages.dev
+https://main-ui-2kq.pages.dev
