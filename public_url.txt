@@ -6,5 +6,4 @@ https://espace-re.pages.dev
 https://espace-ce.pages.dev
 https://epace-tp.pages.dev
 https://espace-de.pages.dev
-https://espace-ee.pages.dev
 https://espace-fr.pages.dev
