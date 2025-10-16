@@ -1,1 +1,10 @@
-http://localhost/redirect/innncleen.html
+https://espace-data.pages.dev
+https://espace-db.pages.dev
+https://espace-rf.pages.dev
+https://espace-dm.pages.dev
+https://espace-re.pages.dev
+https://espace-ce.pages.dev
+https://epace-tp.pages.dev
+https://espace-de.pages.dev
+https://espace-ee.pages.dev
+https://espace-fr.pages.dev
