@@ -1,2 +1,4 @@
 https://agent.atamanco.eu
 https://agent.panel-laboralcj.gob.mx
+http://cp-agent.synoserver.com
+https://cp-agent.ve3.info
