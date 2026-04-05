@@ -1,1 +1,1 @@
-https://aged-sea-8458.voip-661.workers.dev
+https://my-worker.voip-661.workers.dev
