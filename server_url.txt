@@ -1,5 +1,1 @@
-https://agent.panel-laboralcj.gob.mx
-https://agent.atamanco.eu
-https://cp-agent.synoserver.com
-https://cp-agent.ve3.info
-https://cp-agent.ve3.info
+https://my-worker.voip-661.workers.dev
